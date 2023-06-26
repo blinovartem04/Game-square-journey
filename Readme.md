@@ -16,5 +16,6 @@ The player controls the square with the keyboard:
 
 ## Author: Artem Blinov
 
-![image](https://github.com/blinovartem04/Game-square-journey/assets/101421711/04897fd1-7083-4662-8d91-7abdd4f26658)
+![image](https://github.com/blinovartem04/Game-square-journey/assets/101421711/8ba44197-df30-456c-953f-bc078fb80330)
+
 
