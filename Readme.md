@@ -1,4 +1,4 @@
-## Game "Journey of the Square 2D"
+## Game "Square Game 2D"
 
 This game is a 2D platformer written in JavaScript. The player controls a square, which must overcome obstacles and reach the goal. 
 
