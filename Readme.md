@@ -15,3 +15,6 @@ The player controls the square with the keyboard:
 - ↑ - jump
 
 ## Author: Artem Blinov
+
+![image](https://github.com/blinovartem04/Game-square-journey/assets/101421711/04897fd1-7083-4662-8d91-7abdd4f26658)
+
