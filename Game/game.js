@@ -171,8 +171,8 @@ const loop = function () {
 const levelIndicator = document.createElement('div');
 levelIndicator.id = 'level-indicator';
 levelIndicator.style.position = 'absolute';
-levelIndicator.style.top = '280px';
-levelIndicator.style.left = '270px';
+levelIndicator.style.top = '350px';
+levelIndicator.style.left = '280px';
 levelIndicator.style.color = '#FBF5F9';
 document.body.appendChild(levelIndicator);
 
